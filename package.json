@@ -1,0 +1,30 @@
+{
+  "name": "cloneable",
+  "version": "0.0.0",
+  "description": "Creates a clone of the object including the properties and methods and traversal mechanism back to the parent copy.",
+  "main": "cloneable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volkovasystems/cloneable.git"
+  },
+  "keywords": [
+    "cloneable",
+    "clone",
+    "object-copy",
+    "scope",
+    "copy"
+  ],
+  "author": "Richeve S. Bebedor <richeve.bebedor@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/volkovasystems/cloneable/issues"
+  },
+  "homepage": "https://github.com/volkovasystems/cloneable#readme",
+  "dependencies": {
+    "lodash": "^3.10.0",
+    "synthetos": "0.0.0"
+  }
+}
