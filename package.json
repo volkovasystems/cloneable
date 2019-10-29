@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/volkovasystems/cloneable#readme",
   "dependencies": {
-    "lodash": "^3.10.0",
+    "lodash": "^4.17.15",
     "synthetos": "0.0.0"
   }
 }
